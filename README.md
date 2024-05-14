@@ -18,6 +18,7 @@ A curated list of awesome examples and resources for DSPy.
 
 ## Agents
 
+- [multi_agent.ipynb](https://github.com/stanfordnlp/dspy/blob/main/examples/agents/multi_agent.ipynb): Multi-agent system examples.
 - [multi_agent.ipynb](agents/multi_agent.ipynb): Multi-agent system examples.
 - [multi_agent_llama3.ipynb](agents/multi_agent_llama3.ipynb): Multi-agent system using Llama3.
 
