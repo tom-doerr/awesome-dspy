@@ -17,12 +17,14 @@ A curated list of awesome examples and resources for DSPy.
 - [Tweets](#tweets)
 - [Videos](#videos)
 - [Papers](#papers)
+- [Benchmarks](#benchmarks)
 - [Other Resources](#other-resources)
 
 ## Agents
 
 - [multi_agent.ipynb](https://github.com/stanfordnlp/dspy/blob/main/examples/agents/multi_agent.ipynb): Multi-agent system examples.
 - [multi_agent_llama3.ipynb](https://github.com/stanfordnlp/dspy/blob/main/examples/agents/multi_agent_llama3.ipynb): Multi-agent system using Llama3.
+- [Building a chess playing agent using DSPy by Franck SN](https://medium.com/thoughts-on-machine-learning/building-a-chess-playing-agent-using-dspy-9b87c868f71e): Creating a chess-playing agent with DSPy.
 
 ## Dataloaders
 
@@ -35,12 +37,13 @@ A curated list of awesome examples and resources for DSPy.
 - [repl.py](https://github.com/stanfordnlp/dspy/blob/main/examples/functional/repl.py): REPL for testing functional programming concepts.
 - [signature_opt_typed.ipynb](https://github.com/stanfordnlp/dspy/blob/main/examples/functional/signature_opt_typed.ipynb): Optimized function signatures with type hints.
 - [Using DSPy to train Gpt 3.5 on HumanEval by Thomas Ahle](https://github.com/stanfordnlp/dspy/blob/main/examples/functional/functional.ipynb): Training Gpt 3.5 on HumanEval.
-- [Building a chess playing agent using DSPy by Franck SN](https://medium.com/thoughts-on-machine-learning/building-a-chess-playing-agent-using-dspy-9b87c868f71e): Creating a chess-playing agent with DSPy.
 
 ## Integrations
 
 - [clarifai_llm_retriever_example.ipynb](https://github.com/stanfordnlp/dspy/blob/main/examples/integrations/clarifai/clarifai_llm_retriever_example.ipynb): Example integration with Clarifai LLM retriever.
 - [readme.md](https://github.com/stanfordnlp/dspy/blob/main/examples/integrations/readme.md): Documentation for integrations.
+- [Haize Lab's Red Teaming with DSPy](https://blog.haizelabs.com/posts/dspy/) and see [their DSPy code](https://github.com/haizelabs/dspy-redteam)
+- [Using Ollama with DSPy for Mistral (quantized) by @jrknox1977](https://gist.github.com/jrknox1977/78c17e492b5a75ee5bbaf9673aee4641)
 
 ## Longform QA
 
@@ -58,6 +61,7 @@ A curated list of awesome examples and resources for DSPy.
 - [scone-cot_fewshot-turbo-gpt4-demos.json](https://github.com/stanfordnlp/dspy/blob/main/examples/nli/scone/scone-cot_fewshot-turbo-gpt4-demos.json): SCONE dataset demos with CoT and few-shot learning.
 - [scone.ipynb](https://github.com/stanfordnlp/dspy/blob/main/examples/nli/scone/scone.ipynb): SCONE dataset examples.
 - [Indian Languages NLI with gains due to compiling by Saiful Haq](https://github.com/saifulhaq95/DSPy-Indic/blob/main/indicxlni.ipynb): Indian Languages NLI examples.
+- [Sophisticated Extreme Multi-Class Classification, IReRa, by Karel D’Oosterlinck](https://github.com/KarelDO/xmc.dspy)
 
 ## QA
 
@@ -93,8 +97,13 @@ A curated list of awesome examples and resources for DSPy.
 
 ## Papers
 
-- **[Oct'23] [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714)**     
-- **[Jan'24] [In-Context Learning for Extreme Multi-Label Classification](https://arxiv.org/abs/2401.12178)**       
-- **[Dec'23] [DSPy Assertions: Computational Constraints for Self-Refining Language Model Pipelines](https://arxiv.org/abs/2312.13382)**   
+- **[Oct'23] [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714)**
+- **[Jan'24] [In-Context Learning for Extreme Multi-Label Classification](https://arxiv.org/abs/2401.12178)**
+- **[Dec'23] [DSPy Assertions: Computational Constraints for Self-Refining Language Model Pipelines](https://arxiv.org/abs/2312.13382)**
 - **[Dec'22] [Demonstrate-Search-Predict: Composing Retrieval & Language Models for Knowledge-Intensive NLP](https://arxiv.org/abs/2212.14024.pdf)**
+- **[Using DSPy, "The Unreasonable Effectiveness of Eccentric Automatic Prompts" (paper) by VMware's Rick Battle & Teja Gollapudi](https://arxiv.org/abs/2402.10949), and [interview at TheRegister](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)**
 
+## Benchmarks
+
+- [DSPy Optimizers Benchmark on a bunch of different tasks, by Michael Ryan](https://github.com/stanfordnlp/dspy/tree/main/testing/tasks)
+- [DSPy Optimizers Benchmark on a bunch of different tasks, by Michael Ryan](https://github.com/stanfordnlp/dspy/tree/main/testing/README.md)
