@@ -18,7 +18,6 @@ A curated list of awesome examples and resources for DSPy.
 - [Videos](#videos)
 - [Papers](#papers)
 - [Benchmarks](#benchmarks)
-- [Other Resources](#other-resources)
 
 ## Agents
 
