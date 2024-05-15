@@ -15,6 +15,8 @@ A curated list of awesome examples and resources for Data Science using Python (
 - [Quiz](#quiz)
 - [Text to SQL](#text-to-sql)
 - [Tweets](#tweets)
+- [Videos](#videos)
+- [Papers](#papers)
 
 ## Agents
 
@@ -72,9 +74,12 @@ A curated list of awesome examples and resources for Data Science using Python (
 - [tweet_metric.py](https://github.com/stanfordnlp/dspy/blob/main/examples/tweets/tweet_metric.py): Metrics for analyzing tweets.
 - [tweets_assertions.ipynb](https://github.com/stanfordnlp/dspy/blob/main/examples/tweets/tweets_assertions.ipynb): Assertions in tweet analysis.
 
-## References
+## Videos
 
-This repository is inspired by the [DSPy examples from Stanford NLP](https://github.com/stanfordnlp/dspy/tree/main/examples).
+- [Getting Started with RAG in DSPy!](https://www.youtube.com/watch?v=CEuUG4Umfxs&list=PLnn6VZp3hqNs_4E6toR990Pg1-2aDuzDq)
+- [DSPy Explained!](https://www.youtube.com/watch?v=41EfOY0Ldkc&list=PLnn6VZp3hqNs_4E6toR990Pg1-2aDuzDq&index=2)
+- [Adding Depth to DSPy Programs](https://www.youtube.com/watch?v=0c7Ksd6BG88&list=PLnn6VZp3hqNs_4E6toR990Pg1-2aDuzDq&index=3)
+- [Structured Outputs with DSPy](https://www.youtube.com/watch?v=tVw3CwrN5-8&list=PLnn6VZp3hqNs_4E6toR990Pg1-2aDuzDq&index=4)
 
 ### Papers
 
