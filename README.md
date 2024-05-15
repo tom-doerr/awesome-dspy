@@ -1,6 +1,6 @@
 # Awesome DSPy
 
-A curated list of awesome examples and resources for Data Science using Python (DSPy).
+A curated list of awesome examples and resources for DSPy.
 
 ## Table of Contents
 
